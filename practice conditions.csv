@@ -1,0 +1,10 @@
+targetX;cueOri;congr;corrAns;Validity
+-0.35;0;1;left;cued
+0.35;180;1;right;cued
+-0.35;0;1;left;cued
+0.35;180;1;right;cued
+-0.35;180;0;left;uncued
+0.35;0;0;right;uncued
+-0.35;180;0;left;uncued
+0.35;0;0;right;uncued
+-0.35;180;0;left;uncued
